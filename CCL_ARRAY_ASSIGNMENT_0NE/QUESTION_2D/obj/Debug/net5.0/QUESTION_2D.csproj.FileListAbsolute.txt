@@ -1,0 +1,15 @@
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/QUESTION_2D/bin/Debug/net5.0/QUESTION_2D.deps.json
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/QUESTION_2D/bin/Debug/net5.0/QUESTION_2D.runtimeconfig.json
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/QUESTION_2D/bin/Debug/net5.0/QUESTION_2D.runtimeconfig.dev.json
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/QUESTION_2D/bin/Debug/net5.0/QUESTION_2D.dll
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/QUESTION_2D/bin/Debug/net5.0/ref/QUESTION_2D.dll
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/QUESTION_2D/bin/Debug/net5.0/QUESTION_2D.pdb
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/QUESTION_2D/obj/Debug/net5.0/QUESTION_2D.csproj.AssemblyReference.cache
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/QUESTION_2D/obj/Debug/net5.0/QUESTION_2D.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/QUESTION_2D/obj/Debug/net5.0/QUESTION_2D.AssemblyInfoInputs.cache
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/QUESTION_2D/obj/Debug/net5.0/QUESTION_2D.AssemblyInfo.cs
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/QUESTION_2D/obj/Debug/net5.0/QUESTION_2D.csproj.CoreCompileInputs.cache
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/QUESTION_2D/obj/Debug/net5.0/QUESTION_2D.dll
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/QUESTION_2D/obj/Debug/net5.0/ref/QUESTION_2D.dll
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/QUESTION_2D/obj/Debug/net5.0/QUESTION_2D.pdb
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/QUESTION_2D/obj/Debug/net5.0/QUESTION_2D.genruntimeconfig.cache

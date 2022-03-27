@@ -1,0 +1,15 @@
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/QUESTION_3/bin/Debug/net5.0/QUESTION_2A.deps.json
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/QUESTION_3/bin/Debug/net5.0/QUESTION_2A.runtimeconfig.json
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/QUESTION_3/bin/Debug/net5.0/QUESTION_2A.runtimeconfig.dev.json
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/QUESTION_3/bin/Debug/net5.0/QUESTION_2A.dll
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/QUESTION_3/bin/Debug/net5.0/ref/QUESTION_2A.dll
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/QUESTION_3/bin/Debug/net5.0/QUESTION_2A.pdb
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/QUESTION_3/obj/Debug/net5.0/QUESTION_2A.csproj.AssemblyReference.cache
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/QUESTION_3/obj/Debug/net5.0/QUESTION_2A.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/QUESTION_3/obj/Debug/net5.0/QUESTION_2A.AssemblyInfoInputs.cache
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/QUESTION_3/obj/Debug/net5.0/QUESTION_2A.AssemblyInfo.cs
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/QUESTION_3/obj/Debug/net5.0/QUESTION_2A.csproj.CoreCompileInputs.cache
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/QUESTION_3/obj/Debug/net5.0/QUESTION_2A.dll
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/QUESTION_3/obj/Debug/net5.0/ref/QUESTION_2A.dll
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/QUESTION_3/obj/Debug/net5.0/QUESTION_2A.pdb
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/QUESTION_3/obj/Debug/net5.0/QUESTION_2A.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CCL_ARRAY_ASSIGNMENT_0NE/1.0.0": {
+        "runtime": {
+          "CCL_ARRAY_ASSIGNMENT_0NE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CCL_ARRAY_ASSIGNMENT_0NE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

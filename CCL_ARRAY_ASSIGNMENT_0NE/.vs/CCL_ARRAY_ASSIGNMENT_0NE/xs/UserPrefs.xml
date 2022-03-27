@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{6C3507DA-3893-4985-B1D6-B6419A80D76A}|Default">
+  <MonoDevelop.Ide.ItemProperties.QUESTION__2D PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CCL__ARRAY__ASSIGNMENT__0NE PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="QUESTION_2D/Program.cs">
+    <Files>
+      <File FileName="CCL_ARRAY_ASSIGNMENT_0NE/Program.cs" Line="21" Column="28" />
+      <File FileName="QUESTION/Program.cs" Line="63" Column="51" />
+      <File FileName="QUESTION_2B/Program.cs" Line="12" Column="54" />
+      <File FileName="QUESTION_2C/Program.cs" Line="90" Column="67" />
+      <File FileName="QUESTION_2D/Program.cs" Line="68" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CCL_ARRAY_ASSIGNMENT_0NE" expanded="True">
+            <Node name="CCL_ARRAY_ASSIGNMENT_0NE" expanded="True" />
+            <Node name="QUESTION_2" expanded="True" />
+            <Node name="QUESTION_2B" expanded="True" />
+            <Node name="QUESTION_2C" expanded="True" />
+            <Node name="QUESTION_2D" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.QUESTION__2B PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.QUESTION__2C PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.QUESTION__2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

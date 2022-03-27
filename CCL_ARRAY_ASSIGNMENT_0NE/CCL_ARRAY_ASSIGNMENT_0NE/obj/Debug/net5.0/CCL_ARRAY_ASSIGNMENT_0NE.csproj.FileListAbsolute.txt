@@ -1,0 +1,15 @@
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/CCL_ARRAY_ASSIGNMENT_0NE/bin/Debug/net5.0/CCL_ARRAY_ASSIGNMENT_0NE.deps.json
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/CCL_ARRAY_ASSIGNMENT_0NE/bin/Debug/net5.0/CCL_ARRAY_ASSIGNMENT_0NE.runtimeconfig.json
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/CCL_ARRAY_ASSIGNMENT_0NE/bin/Debug/net5.0/CCL_ARRAY_ASSIGNMENT_0NE.runtimeconfig.dev.json
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/CCL_ARRAY_ASSIGNMENT_0NE/bin/Debug/net5.0/CCL_ARRAY_ASSIGNMENT_0NE.dll
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/CCL_ARRAY_ASSIGNMENT_0NE/bin/Debug/net5.0/ref/CCL_ARRAY_ASSIGNMENT_0NE.dll
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/CCL_ARRAY_ASSIGNMENT_0NE/bin/Debug/net5.0/CCL_ARRAY_ASSIGNMENT_0NE.pdb
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/CCL_ARRAY_ASSIGNMENT_0NE/obj/Debug/net5.0/CCL_ARRAY_ASSIGNMENT_0NE.csproj.AssemblyReference.cache
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/CCL_ARRAY_ASSIGNMENT_0NE/obj/Debug/net5.0/CCL_ARRAY_ASSIGNMENT_0NE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/CCL_ARRAY_ASSIGNMENT_0NE/obj/Debug/net5.0/CCL_ARRAY_ASSIGNMENT_0NE.AssemblyInfoInputs.cache
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/CCL_ARRAY_ASSIGNMENT_0NE/obj/Debug/net5.0/CCL_ARRAY_ASSIGNMENT_0NE.AssemblyInfo.cs
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/CCL_ARRAY_ASSIGNMENT_0NE/obj/Debug/net5.0/CCL_ARRAY_ASSIGNMENT_0NE.csproj.CoreCompileInputs.cache
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/CCL_ARRAY_ASSIGNMENT_0NE/obj/Debug/net5.0/CCL_ARRAY_ASSIGNMENT_0NE.dll
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/CCL_ARRAY_ASSIGNMENT_0NE/obj/Debug/net5.0/ref/CCL_ARRAY_ASSIGNMENT_0NE.dll
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/CCL_ARRAY_ASSIGNMENT_0NE/obj/Debug/net5.0/CCL_ARRAY_ASSIGNMENT_0NE.pdb
+/Users/tolohuntomilade/Projects/CCL_ARRAY_ASSIGNMENT_0NE/CCL_ARRAY_ASSIGNMENT_0NE/obj/Debug/net5.0/CCL_ARRAY_ASSIGNMENT_0NE.genruntimeconfig.cache
