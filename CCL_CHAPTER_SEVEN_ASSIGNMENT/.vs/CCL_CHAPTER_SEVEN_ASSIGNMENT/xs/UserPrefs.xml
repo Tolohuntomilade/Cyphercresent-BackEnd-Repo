@@ -1,0 +1,97 @@
+﻿<Properties StartupConfiguration="{4F259FB1-8C36-4B7A-B4C9-E4463D87E536}|Default">
+  <MonoDevelop.Ide.ItemProperties.QUESTION__5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.QUESTION__13 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.QUESTION__19 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.QUESTION__1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.QUESTION__9 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.QUESTION__14 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.QUESTION__8 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.QUESTION__15 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="QUETSION_17/Program.cs">
+    <Files>
+      <File FileName="CCL_CHAPTER_SEVEN_ASSIGNMENT/Program.cs" Line="9" Column="47" NotebookId="1" />
+      <File FileName="QUESTION_1/Program.cs" Line="18" Column="6" NotebookId="1" />
+      <File FileName="QUESTION_2/Program.cs" Line="30" Column="61" NotebookId="1" />
+      <File FileName="QUESTION_3/Program.cs" Line="31" Column="18" NotebookId="1" />
+      <File FileName="QUESTION_4/Program.cs" Line="11" Column="29" NotebookId="1" />
+      <File FileName="QUESTION_6/Program.cs" Line="37" Column="158" NotebookId="1" />
+      <File FileName="QUESTION_7/Program.cs" Line="27" Column="1" NotebookId="1" />
+      <File FileName="QUESTION_8/Program.cs" Line="37" Column="10" NotebookId="1" />
+      <File FileName="QUESTION_9/Program.cs" Line="37" Column="1" NotebookId="1" />
+      <File FileName="QUESTION_10/Program.cs" Line="11" Column="38" NotebookId="1" />
+      <File FileName="QUESTION_11/Program.cs" Line="24" Column="14" NotebookId="1" />
+      <File FileName="QUESTION_12/Program.cs" Line="29" Column="29" NotebookId="1" />
+      <File FileName="QUESTION_13/Program.cs" Line="44" Column="63" NotebookId="1" />
+      <File FileName="QUESTION_14/Program.cs" Line="93" Column="75" NotebookId="1" />
+      <File FileName="QUESTION_15/Program.cs" Line="16" Column="74" NotebookId="1" />
+      <File FileName="QUESTION_12B/Program.cs" Line="30" Column="6" NotebookId="1" />
+      <File FileName="QUESTION_16/Program.cs" Line="29" Column="2" NotebookId="1" />
+      <File FileName="QUESTION_12C/Program.cs" Line="25" Column="14" NotebookId="1" />
+      <File FileName="QUESTION_12D/Program.cs" Line="38" Column="6" NotebookId="1" />
+      <File FileName="QUETSION_17/Program.cs" Line="69" Column="2" NotebookId="1" />
+      <File FileName="QUESTION_18/Program.cs" Line="55" Column="2" NotebookId="1" />
+      <File FileName="QUESTION_19/Program.cs" Line="24" Column="46" NotebookId="1" />
+    </Files>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="756" Y="425" Width="640" Height="480">
+        <Files>
+          <File FileName="QUESTION_5/Program.cs" Line="21" Column="12" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CCL_CHAPTER_SEVEN_ASSIGNMENT" expanded="True">
+            <Node name="CCL_CHAPTER_SEVEN_ASSIGNMENT" expanded="True" />
+            <Node name="QUESTION_1" expanded="True" />
+            <Node name="QUESTION_10" expanded="True" />
+            <Node name="QUESTION_11" expanded="True" />
+            <Node name="QUESTION_12" expanded="True" />
+            <Node name="QUESTION_12B" expanded="True" />
+            <Node name="QUESTION_12C" expanded="True" />
+            <Node name="QUESTION_12D" expanded="True" />
+            <Node name="QUESTION_13" expanded="True" />
+            <Node name="QUESTION_14" expanded="True" />
+            <Node name="QUESTION_15" expanded="True" />
+            <Node name="QUESTION_16" expanded="True" />
+            <Node name="QUESTION_18" expanded="True" />
+            <Node name="QUESTION_19" expanded="True" />
+            <Node name="QUESTION_2" expanded="True" />
+            <Node name="QUESTION_3" expanded="True" />
+            <Node name="QUESTION_4" expanded="True" />
+            <Node name="QUESTION_5" expanded="True" />
+            <Node name="QUESTION_6" expanded="True" />
+            <Node name="QUESTION_7" expanded="True" />
+            <Node name="QUESTION_8" expanded="True" />
+            <Node name="QUESTION_9" expanded="True" />
+            <Node name="QUETSION_17" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CCL__CHAPTER__SEVEN__ASSIGNMENT FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.QUESTION__10 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.QUESTION__4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.QUESTION__12B PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.QUESTION__3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.QUESTION__6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.QUESTION__2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.QUESTION__16 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.QUESTION__12 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.QUETSION__17 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.QUESTION__18 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.QUESTION__12D PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.QUESTION__12C PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.QUESTION__11 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.QUESTION__7 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

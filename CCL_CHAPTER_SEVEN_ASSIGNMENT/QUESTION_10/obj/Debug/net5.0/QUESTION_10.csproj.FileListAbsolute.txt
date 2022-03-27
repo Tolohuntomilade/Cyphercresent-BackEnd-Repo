@@ -1,0 +1,15 @@
+/Users/tolohuntomilade/Projects/CCL_CHAPTER_SEVEN_ASSIGNMENT/QUESTION_10/bin/Debug/net5.0/QUESTION_10.deps.json
+/Users/tolohuntomilade/Projects/CCL_CHAPTER_SEVEN_ASSIGNMENT/QUESTION_10/bin/Debug/net5.0/QUESTION_10.runtimeconfig.json
+/Users/tolohuntomilade/Projects/CCL_CHAPTER_SEVEN_ASSIGNMENT/QUESTION_10/bin/Debug/net5.0/QUESTION_10.runtimeconfig.dev.json
+/Users/tolohuntomilade/Projects/CCL_CHAPTER_SEVEN_ASSIGNMENT/QUESTION_10/bin/Debug/net5.0/QUESTION_10.dll
+/Users/tolohuntomilade/Projects/CCL_CHAPTER_SEVEN_ASSIGNMENT/QUESTION_10/bin/Debug/net5.0/ref/QUESTION_10.dll
+/Users/tolohuntomilade/Projects/CCL_CHAPTER_SEVEN_ASSIGNMENT/QUESTION_10/bin/Debug/net5.0/QUESTION_10.pdb
+/Users/tolohuntomilade/Projects/CCL_CHAPTER_SEVEN_ASSIGNMENT/QUESTION_10/obj/Debug/net5.0/QUESTION_10.csproj.AssemblyReference.cache
+/Users/tolohuntomilade/Projects/CCL_CHAPTER_SEVEN_ASSIGNMENT/QUESTION_10/obj/Debug/net5.0/QUESTION_10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tolohuntomilade/Projects/CCL_CHAPTER_SEVEN_ASSIGNMENT/QUESTION_10/obj/Debug/net5.0/QUESTION_10.AssemblyInfoInputs.cache
+/Users/tolohuntomilade/Projects/CCL_CHAPTER_SEVEN_ASSIGNMENT/QUESTION_10/obj/Debug/net5.0/QUESTION_10.AssemblyInfo.cs
+/Users/tolohuntomilade/Projects/CCL_CHAPTER_SEVEN_ASSIGNMENT/QUESTION_10/obj/Debug/net5.0/QUESTION_10.csproj.CoreCompileInputs.cache
+/Users/tolohuntomilade/Projects/CCL_CHAPTER_SEVEN_ASSIGNMENT/QUESTION_10/obj/Debug/net5.0/QUESTION_10.dll
+/Users/tolohuntomilade/Projects/CCL_CHAPTER_SEVEN_ASSIGNMENT/QUESTION_10/obj/Debug/net5.0/ref/QUESTION_10.dll
+/Users/tolohuntomilade/Projects/CCL_CHAPTER_SEVEN_ASSIGNMENT/QUESTION_10/obj/Debug/net5.0/QUESTION_10.pdb
+/Users/tolohuntomilade/Projects/CCL_CHAPTER_SEVEN_ASSIGNMENT/QUESTION_10/obj/Debug/net5.0/QUESTION_10.genruntimeconfig.cache
