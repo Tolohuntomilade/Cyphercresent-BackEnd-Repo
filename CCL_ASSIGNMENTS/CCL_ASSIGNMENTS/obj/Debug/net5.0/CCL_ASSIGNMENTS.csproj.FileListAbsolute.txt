@@ -1,0 +1,15 @@
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/CCL_ASSIGNMENTS/bin/Debug/net5.0/CCL_ASSIGNMENTS.deps.json
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/CCL_ASSIGNMENTS/bin/Debug/net5.0/CCL_ASSIGNMENTS.runtimeconfig.json
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/CCL_ASSIGNMENTS/bin/Debug/net5.0/CCL_ASSIGNMENTS.runtimeconfig.dev.json
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/CCL_ASSIGNMENTS/bin/Debug/net5.0/CCL_ASSIGNMENTS.dll
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/CCL_ASSIGNMENTS/bin/Debug/net5.0/ref/CCL_ASSIGNMENTS.dll
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/CCL_ASSIGNMENTS/bin/Debug/net5.0/CCL_ASSIGNMENTS.pdb
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/CCL_ASSIGNMENTS/obj/Debug/net5.0/CCL_ASSIGNMENTS.csproj.AssemblyReference.cache
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/CCL_ASSIGNMENTS/obj/Debug/net5.0/CCL_ASSIGNMENTS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/CCL_ASSIGNMENTS/obj/Debug/net5.0/CCL_ASSIGNMENTS.AssemblyInfoInputs.cache
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/CCL_ASSIGNMENTS/obj/Debug/net5.0/CCL_ASSIGNMENTS.AssemblyInfo.cs
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/CCL_ASSIGNMENTS/obj/Debug/net5.0/CCL_ASSIGNMENTS.csproj.CoreCompileInputs.cache
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/CCL_ASSIGNMENTS/obj/Debug/net5.0/CCL_ASSIGNMENTS.dll
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/CCL_ASSIGNMENTS/obj/Debug/net5.0/ref/CCL_ASSIGNMENTS.dll
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/CCL_ASSIGNMENTS/obj/Debug/net5.0/CCL_ASSIGNMENTS.pdb
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/CCL_ASSIGNMENTS/obj/Debug/net5.0/CCL_ASSIGNMENTS.genruntimeconfig.cache

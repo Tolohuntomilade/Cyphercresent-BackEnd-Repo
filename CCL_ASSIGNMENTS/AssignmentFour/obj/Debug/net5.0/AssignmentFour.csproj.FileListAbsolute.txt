@@ -1,0 +1,15 @@
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/AssignmentFour/bin/Debug/net5.0/AssignmentFour.deps.json
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/AssignmentFour/bin/Debug/net5.0/AssignmentFour.runtimeconfig.json
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/AssignmentFour/bin/Debug/net5.0/AssignmentFour.runtimeconfig.dev.json
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/AssignmentFour/bin/Debug/net5.0/AssignmentFour.dll
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/AssignmentFour/bin/Debug/net5.0/ref/AssignmentFour.dll
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/AssignmentFour/bin/Debug/net5.0/AssignmentFour.pdb
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/AssignmentFour/obj/Debug/net5.0/AssignmentFour.csproj.AssemblyReference.cache
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/AssignmentFour/obj/Debug/net5.0/AssignmentFour.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/AssignmentFour/obj/Debug/net5.0/AssignmentFour.AssemblyInfoInputs.cache
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/AssignmentFour/obj/Debug/net5.0/AssignmentFour.AssemblyInfo.cs
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/AssignmentFour/obj/Debug/net5.0/AssignmentFour.csproj.CoreCompileInputs.cache
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/AssignmentFour/obj/Debug/net5.0/AssignmentFour.dll
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/AssignmentFour/obj/Debug/net5.0/ref/AssignmentFour.dll
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/AssignmentFour/obj/Debug/net5.0/AssignmentFour.pdb
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/AssignmentFour/obj/Debug/net5.0/AssignmentFour.genruntimeconfig.cache

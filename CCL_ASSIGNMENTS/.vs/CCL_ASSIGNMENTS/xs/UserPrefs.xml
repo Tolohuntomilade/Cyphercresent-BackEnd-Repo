@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{C1F51AD2-C1F1-402A-BBAC-F97902FD429F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AssignmentFive/Program.cs">
+    <Files>
+      <File FileName="../../Desktop/Cyphercrescent Academy/Pdf/Program.cs" Line="23" Column="27" />
+      <File FileName="CCL_ASSIGNMENTS/Program.cs" />
+      <File FileName="AssignmentOne/Program.cs" />
+      <File FileName="AssignmentFive/Program.cs" Line="35" Column="1" />
+      <File FileName="AssignmentFour/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CCL_ASSIGNMENTS" expanded="True" selected="True">
+            <Node name="AssignmentFive" expanded="True" />
+            <Node name="AssignmentFour" expanded="True" />
+            <Node name="AssignmentSix" expanded="True" />
+            <Node name="CCL_ASSIGNMENTS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AssignmentFive PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.AssignmentSix PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AssignmentFour PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CCL__ASSIGNMENTS PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

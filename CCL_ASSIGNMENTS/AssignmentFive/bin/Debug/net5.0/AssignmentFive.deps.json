@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AssignmentFive/1.0.0": {
+        "runtime": {
+          "AssignmentFive.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AssignmentFive/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/AssignmentOne/bin/Debug/net5.0/AssignmentOne.deps.json
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/AssignmentOne/bin/Debug/net5.0/AssignmentOne.runtimeconfig.json
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/AssignmentOne/bin/Debug/net5.0/AssignmentOne.runtimeconfig.dev.json
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/AssignmentOne/bin/Debug/net5.0/AssignmentOne.dll
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/AssignmentOne/bin/Debug/net5.0/ref/AssignmentOne.dll
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/AssignmentOne/bin/Debug/net5.0/AssignmentOne.pdb
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/AssignmentOne/obj/Debug/net5.0/AssignmentOne.csproj.AssemblyReference.cache
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/AssignmentOne/obj/Debug/net5.0/AssignmentOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/AssignmentOne/obj/Debug/net5.0/AssignmentOne.AssemblyInfoInputs.cache
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/AssignmentOne/obj/Debug/net5.0/AssignmentOne.AssemblyInfo.cs
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/AssignmentOne/obj/Debug/net5.0/AssignmentOne.csproj.CoreCompileInputs.cache
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/AssignmentOne/obj/Debug/net5.0/AssignmentOne.dll
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/AssignmentOne/obj/Debug/net5.0/ref/AssignmentOne.dll
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/AssignmentOne/obj/Debug/net5.0/AssignmentOne.pdb
+/Users/tolohuntomilade/Projects/CCL_ASSIGNMENTS/AssignmentOne/obj/Debug/net5.0/AssignmentOne.genruntimeconfig.cache
