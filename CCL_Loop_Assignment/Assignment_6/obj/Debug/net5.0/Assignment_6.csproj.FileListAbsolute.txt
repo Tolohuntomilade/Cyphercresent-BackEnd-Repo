@@ -1,0 +1,15 @@
+/Users/tolohuntomilade/Projects/CCL_Loop_Assignment/Assignment_6/bin/Debug/net5.0/Assignment_6.deps.json
+/Users/tolohuntomilade/Projects/CCL_Loop_Assignment/Assignment_6/bin/Debug/net5.0/Assignment_6.runtimeconfig.json
+/Users/tolohuntomilade/Projects/CCL_Loop_Assignment/Assignment_6/bin/Debug/net5.0/Assignment_6.runtimeconfig.dev.json
+/Users/tolohuntomilade/Projects/CCL_Loop_Assignment/Assignment_6/bin/Debug/net5.0/Assignment_6.dll
+/Users/tolohuntomilade/Projects/CCL_Loop_Assignment/Assignment_6/bin/Debug/net5.0/ref/Assignment_6.dll
+/Users/tolohuntomilade/Projects/CCL_Loop_Assignment/Assignment_6/bin/Debug/net5.0/Assignment_6.pdb
+/Users/tolohuntomilade/Projects/CCL_Loop_Assignment/Assignment_6/obj/Debug/net5.0/Assignment_6.csproj.AssemblyReference.cache
+/Users/tolohuntomilade/Projects/CCL_Loop_Assignment/Assignment_6/obj/Debug/net5.0/Assignment_6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tolohuntomilade/Projects/CCL_Loop_Assignment/Assignment_6/obj/Debug/net5.0/Assignment_6.AssemblyInfoInputs.cache
+/Users/tolohuntomilade/Projects/CCL_Loop_Assignment/Assignment_6/obj/Debug/net5.0/Assignment_6.AssemblyInfo.cs
+/Users/tolohuntomilade/Projects/CCL_Loop_Assignment/Assignment_6/obj/Debug/net5.0/Assignment_6.csproj.CoreCompileInputs.cache
+/Users/tolohuntomilade/Projects/CCL_Loop_Assignment/Assignment_6/obj/Debug/net5.0/Assignment_6.dll
+/Users/tolohuntomilade/Projects/CCL_Loop_Assignment/Assignment_6/obj/Debug/net5.0/ref/Assignment_6.dll
+/Users/tolohuntomilade/Projects/CCL_Loop_Assignment/Assignment_6/obj/Debug/net5.0/Assignment_6.pdb
+/Users/tolohuntomilade/Projects/CCL_Loop_Assignment/Assignment_6/obj/Debug/net5.0/Assignment_6.genruntimeconfig.cache

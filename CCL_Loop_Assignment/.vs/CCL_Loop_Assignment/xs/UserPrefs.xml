@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{7B047B2C-83BC-44F3-9371-50AC12968796}|Default">
+  <MonoDevelop.Ide.ItemProperties.Assignment__5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Assignment__7 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment_7/Program.cs">
+    <Files>
+      <File FileName="CCL_Loop_Assignment/Program.cs" Line="23" Column="1" />
+      <File FileName="Assignment_1/Program.cs" Line="30" Column="63" />
+      <File FileName="Assignment_2/Program.cs" Line="1" Column="1" />
+      <File FileName="Assignment_3/Program.cs" Line="27" Column="1" />
+      <File FileName="Assignment_4/Program.cs" Line="31" Column="2" />
+      <File FileName="Assignment_5/Program.cs" Line="25" Column="1" />
+      <File FileName="Assignment_6/Program.cs" Line="22" Column="6" />
+      <File FileName="Assignment_7/Program.cs" Line="19" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CCL_Loop_Assignment" expanded="True">
+            <Node name="Assignment_1" expanded="True" />
+            <Node name="Assignment_2" expanded="True" />
+            <Node name="Assignment_3" expanded="True" />
+            <Node name="Assignment_4" expanded="True" />
+            <Node name="Assignment_5" expanded="True" />
+            <Node name="Assignment_6" expanded="True" />
+            <Node name="Assignment_7" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="CCL_Loop_Assignment" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CCL__Loop__Assignment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Assignment__4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Assignment__1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Assignment__3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assignment__2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assignment__6 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
