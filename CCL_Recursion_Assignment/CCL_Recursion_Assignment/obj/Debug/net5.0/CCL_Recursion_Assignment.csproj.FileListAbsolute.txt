@@ -1,0 +1,15 @@
+/Users/tolohuntomilade/Projects/CCL_Recursion_Assignment/CCL_Recursion_Assignment/bin/Debug/net5.0/CCL_Recursion_Assignment.deps.json
+/Users/tolohuntomilade/Projects/CCL_Recursion_Assignment/CCL_Recursion_Assignment/bin/Debug/net5.0/CCL_Recursion_Assignment.runtimeconfig.json
+/Users/tolohuntomilade/Projects/CCL_Recursion_Assignment/CCL_Recursion_Assignment/bin/Debug/net5.0/CCL_Recursion_Assignment.runtimeconfig.dev.json
+/Users/tolohuntomilade/Projects/CCL_Recursion_Assignment/CCL_Recursion_Assignment/bin/Debug/net5.0/CCL_Recursion_Assignment.dll
+/Users/tolohuntomilade/Projects/CCL_Recursion_Assignment/CCL_Recursion_Assignment/bin/Debug/net5.0/ref/CCL_Recursion_Assignment.dll
+/Users/tolohuntomilade/Projects/CCL_Recursion_Assignment/CCL_Recursion_Assignment/bin/Debug/net5.0/CCL_Recursion_Assignment.pdb
+/Users/tolohuntomilade/Projects/CCL_Recursion_Assignment/CCL_Recursion_Assignment/obj/Debug/net5.0/CCL_Recursion_Assignment.csproj.AssemblyReference.cache
+/Users/tolohuntomilade/Projects/CCL_Recursion_Assignment/CCL_Recursion_Assignment/obj/Debug/net5.0/CCL_Recursion_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tolohuntomilade/Projects/CCL_Recursion_Assignment/CCL_Recursion_Assignment/obj/Debug/net5.0/CCL_Recursion_Assignment.AssemblyInfoInputs.cache
+/Users/tolohuntomilade/Projects/CCL_Recursion_Assignment/CCL_Recursion_Assignment/obj/Debug/net5.0/CCL_Recursion_Assignment.AssemblyInfo.cs
+/Users/tolohuntomilade/Projects/CCL_Recursion_Assignment/CCL_Recursion_Assignment/obj/Debug/net5.0/CCL_Recursion_Assignment.csproj.CoreCompileInputs.cache
+/Users/tolohuntomilade/Projects/CCL_Recursion_Assignment/CCL_Recursion_Assignment/obj/Debug/net5.0/CCL_Recursion_Assignment.dll
+/Users/tolohuntomilade/Projects/CCL_Recursion_Assignment/CCL_Recursion_Assignment/obj/Debug/net5.0/ref/CCL_Recursion_Assignment.dll
+/Users/tolohuntomilade/Projects/CCL_Recursion_Assignment/CCL_Recursion_Assignment/obj/Debug/net5.0/CCL_Recursion_Assignment.pdb
+/Users/tolohuntomilade/Projects/CCL_Recursion_Assignment/CCL_Recursion_Assignment/obj/Debug/net5.0/CCL_Recursion_Assignment.genruntimeconfig.cache

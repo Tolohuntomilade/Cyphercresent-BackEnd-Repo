@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{4F587F6C-E5ED-4CC9-A557-17ACD3113366}|Default">
+  <MonoDevelop.Ide.ItemProperties.CCL__Recursion__Assignment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CCL_Recursion_Assignment/Program.cs">
+    <Files>
+      <File FileName="CCL_Recursion_Assignment/Program.cs" Line="11" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CCL_Recursion_Assignment" expanded="True">
+            <Node name="CCL_Recursion_Assignment" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
