@@ -1,0 +1,15 @@
+/Users/tolohuntomilade/Projects/Random_Numbers/Random_Numbers/bin/Debug/net5.0/Random_Numbers.deps.json
+/Users/tolohuntomilade/Projects/Random_Numbers/Random_Numbers/bin/Debug/net5.0/Random_Numbers.runtimeconfig.json
+/Users/tolohuntomilade/Projects/Random_Numbers/Random_Numbers/bin/Debug/net5.0/Random_Numbers.runtimeconfig.dev.json
+/Users/tolohuntomilade/Projects/Random_Numbers/Random_Numbers/bin/Debug/net5.0/Random_Numbers.dll
+/Users/tolohuntomilade/Projects/Random_Numbers/Random_Numbers/bin/Debug/net5.0/ref/Random_Numbers.dll
+/Users/tolohuntomilade/Projects/Random_Numbers/Random_Numbers/bin/Debug/net5.0/Random_Numbers.pdb
+/Users/tolohuntomilade/Projects/Random_Numbers/Random_Numbers/obj/Debug/net5.0/Random_Numbers.csproj.AssemblyReference.cache
+/Users/tolohuntomilade/Projects/Random_Numbers/Random_Numbers/obj/Debug/net5.0/Random_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tolohuntomilade/Projects/Random_Numbers/Random_Numbers/obj/Debug/net5.0/Random_Numbers.AssemblyInfoInputs.cache
+/Users/tolohuntomilade/Projects/Random_Numbers/Random_Numbers/obj/Debug/net5.0/Random_Numbers.AssemblyInfo.cs
+/Users/tolohuntomilade/Projects/Random_Numbers/Random_Numbers/obj/Debug/net5.0/Random_Numbers.csproj.CoreCompileInputs.cache
+/Users/tolohuntomilade/Projects/Random_Numbers/Random_Numbers/obj/Debug/net5.0/Random_Numbers.dll
+/Users/tolohuntomilade/Projects/Random_Numbers/Random_Numbers/obj/Debug/net5.0/ref/Random_Numbers.dll
+/Users/tolohuntomilade/Projects/Random_Numbers/Random_Numbers/obj/Debug/net5.0/Random_Numbers.pdb
+/Users/tolohuntomilade/Projects/Random_Numbers/Random_Numbers/obj/Debug/net5.0/Random_Numbers.genruntimeconfig.cache
